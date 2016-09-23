@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Grid view</string>
+
+
+
+    <string-array name="description">
+        <item>this ismeme1</item>
+        <item>this is meme2</item>
+        <item>this is meme3</item>
+        <item>this ismeme4</item>
+        <item>this is meme5</item>
+        <item>this ismeme6</item>
+
+    </string-array>
+
+
+</resources>
