@@ -65,6 +65,7 @@ public class Myadapter  extends BaseAdapter {
             holder=new Myholder(row);
             row.setTag(holder);
 
+
         }
         else {
 
